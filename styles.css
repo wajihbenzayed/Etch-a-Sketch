@@ -8,6 +8,7 @@ body {
   flex-wrap: wrap;
   border: 5px solid black;
   aspect-ratio: 1/1;
+  width: 480;
 }
 .big-container {
   display: flex;
